@@ -11,7 +11,7 @@ $this->title = 'My Yii Application';
         <h2>Sistema de control para Mi Raspberry Pi 3!</h2>
 
         <div align="center">
-            <img align="center" src="images/img_index.jpg"  height="300">
+            <img src="images/img_index.jpg"  height="300">
         </div>
     </div>      
 </div> 
